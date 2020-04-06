@@ -108,5 +108,6 @@ if(!empty($html)){
    var_dump($features);
   
 }
+}
 
 ?>
