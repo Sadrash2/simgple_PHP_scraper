@@ -110,4 +110,6 @@ if(!empty($html)){
 }
 }
 
+runner('id', 'properties'); // call the func
+
 ?>
